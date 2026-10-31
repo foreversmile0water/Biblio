@@ -226,4 +226,4 @@ Biblio is completely free to use, with all features and updates included. There 
 Ready to take control of your library? **Download Biblio now and experience the power of efficient library management for free!**
 
 ---
-**Last updated:** 2026-10-31 17:35:38 UTC
+**Last updated:** 2026-10-31 21:18:17 UTC
